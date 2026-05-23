@@ -186,8 +186,8 @@ Portfolio snapshot across **31 public repositories** — grouped by AI/ML domain
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-danishjavedcodes-181717?style=for-the-badge&logo=github)](https://github.com/danishjavedcodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR.EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danish-javed-ai/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:danishjaved2001@outlook.com)
 
 </div>
 
