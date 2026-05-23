@@ -34,8 +34,7 @@ I am actively seeking **Werkstudent** positions as an **AI/ML Engineer** in the 
 | **Computer Vision** | Object detection (YOLO, R-CNN), face detection (OpenCV), medical imaging (CNN) |
 | **Data Engineering** | Web scraping (Scrapy), dataset construction, preprocessing pipelines |
 | **Research** | Custom dataset design, ROUGE evaluation, reproducible experiments, technical documentation |
-
-**Keywords (ATS / German job market):**  
+ 
 `Python` · `PyTorch` · `Deep Learning` · `Machine Learning` · `Generative AI` · `LoRA` · `ComfyUI` · `Stable Diffusion` · `NLP` · `NLU` · `Computer Vision` · `Transformers` · `BERT` · `Hugging Face` · `LLM` · `RAG` · `REST API` · `FastAPI` · `YOLO` · `CNN` · `GAN` · `scikit-learn` · `pandas` · `NumPy` · `OpenCV` · `Jupyter` · `Model Evaluation`
 
 ---
