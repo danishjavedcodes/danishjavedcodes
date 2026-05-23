@@ -91,8 +91,8 @@ Dev Practices   Git · reproducible notebooks · structured project layouts
 
 <div align="center">
 
-<!-- Donut: share of code by language across all repos -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishjavedcodes&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Languages%20Across%20Repositories" alt="Top Languages Donut" width="45%"/>
+<!-- Donut: repositories by primary language (QuickChart — github-readme-stats is currently unavailable) -->
+<img src="https://quickchart.io/chart?width=520&height=400&backgroundColor=%231a1b27&format=png&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Jupyter%20Notebook%22%2C%22Python%22%2C%22HTML%22%2C%22Other%22%2C%22CSS%22%2C%22C%2B%2B%22%2C%22TeX%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B14%2C9%2C4%2C3%2C1%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%23F37626%22%2C%22%233572A5%22%2C%22%23E34C26%22%2C%22%238B949E%22%2C%22%23563D7C%22%2C%22%23F34B7D%22%2C%22%233D6117%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22boxWidth%22%3A12%2C%22font%22%3A%7B%22size%22%3A11%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Languages%20Across%20Repositories%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%7D%7D" alt="Top Languages Donut" width="45%"/>
 
 <!-- Bar: repos count per primary language -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishjavedcodes&theme=tokyonight" alt="Repositories per Language" width="45%"/>
