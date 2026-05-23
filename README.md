@@ -30,12 +30,13 @@ I am actively seeking **Werkstudent** positions as an **AI/ML Engineer** in the 
 | **Deep Learning** | CNNs, BiLSTM, GANs, Transfer Learning, fine-tuning |
 | **NLP / NLU** | Text classification, extractive summarization, NER, Knowledge Graphs, financial text structuring |
 | **LLMs & GenAI** | BERT / RoBERTa, OpenAI API, prompt-based generation, hybrid retrieval + generation chatbots |
+| **Generative AI** | LoRA fine-tuning (visuals), ComfyUI workflows, Stable Diffusion, GANs, REST API inference pipelines |
 | **Computer Vision** | Object detection (YOLO, R-CNN), face detection (OpenCV), medical imaging (CNN) |
 | **Data Engineering** | Web scraping (Scrapy), dataset construction, preprocessing pipelines |
 | **Research** | Custom dataset design, ROUGE evaluation, reproducible experiments, technical documentation |
 
 **Keywords (ATS / German job market):**  
-`Python` · `PyTorch` · `Deep Learning` · `Machine Learning` · `NLP` · `NLU` · `Computer Vision` · `Transformers` · `BERT` · `Hugging Face` · `LLM` · `RAG` · `YOLO` · `CNN` · `GAN` · `scikit-learn` · `pandas` · `NumPy` · `OpenCV` · `Jupyter` · `Model Evaluation` · `Feature Engineering`
+`Python` · `PyTorch` · `Deep Learning` · `Machine Learning` · `Generative AI` · `LoRA` · `ComfyUI` · `Stable Diffusion` · `NLP` · `NLU` · `Computer Vision` · `Transformers` · `BERT` · `Hugging Face` · `LLM` · `RAG` · `REST API` · `FastAPI` · `YOLO` · `CNN` · `GAN` · `scikit-learn` · `pandas` · `NumPy` · `OpenCV` · `Jupyter` · `Model Evaluation`
 
 ---
 
@@ -46,9 +47,10 @@ Languages       Python · C++ · HTML/CSS
 ML / DL         PyTorch · scikit-learn · Ultralytics YOLO · OpenCV
 NLP             Transformers · BERT · RoBERTa · NLTK · spaCy
 LLM / APIs      OpenAI GPT-3.5 · Hugging Face ecosystem
-CV              CNN · R-CNN · YOLO · Haar Cascades · GANs
+Generative AI   LoRA fine-tuning · ComfyUI · Stable Diffusion · GANs · visual generation
+CV              CNN · R-CNN · YOLO · Haar Cascades
 Data & Tools    pandas · NumPy · Matplotlib · Scrapy · Jupyter
-Web / Backend   Flask · REST-style APIs
+Web / Backend   Flask · FastAPI · REST APIs (inference & serving)
 Dev Practices   Git · reproducible notebooks · structured project layouts
 ```
 
@@ -86,48 +88,6 @@ Dev Practices   Git · reproducible notebooks · structured project layouts
 
 ---
 
-## 📈 GitHub Analytics & Activity
-
-*Live charts — auto-updated from your GitHub account.*
-
-### Recent Programming Activity
-
-<div align="center">
-
-<!-- Contribution timeline: commits, PRs, issues over time -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishjavedcodes&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38ff9c&area=true&hide_border=true&custom_title=Contribution%20Activity%20(Last%2012%20Months)" alt="Contribution Activity Graph" width="100%"/>
-
-<!-- Classic green contribution calendar -->
-<img src="https://ghchart.rshah.org/38ff9c/danishjavedcodes" alt="GitHub Contribution Chart" width="100%"/>
-
-</div>
-
-### Account Overview & Streak
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=danishjavedcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true&custom_title=GitHub%20Overview" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danishjavedcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishjavedcodes&theme=tokyonight" alt="Profile Details" height="165"/>
-
-</div>
-
-### Coding Patterns
-
-<div align="center">
-
-<!-- Languages weighted by commit history -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danishjavedcodes&theme=tokyonight" alt="Most Used Languages by Commits" height="180"/>
-
-<!-- When you typically code (CET / Germany UTC+1) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danishjavedcodes&theme=tokyonight&utcOffset=1" alt="Productive Time" height="180"/>
-
-</div>
-
----
-
 ## 📊 Language Distribution
 
 <div align="center">
@@ -158,10 +118,11 @@ Dev Practices   Git · reproducible notebooks · structured project layouts
 ```mermaid
 pie showData
     title Portfolio by Domain
-    "Computer Vision" : 11
+    "Computer Vision" : 10
     "Web / Backend" : 7
     "ML / Data Science" : 5
     "NLP / LLM" : 4
+    "Generative AI" : 3
     "Data Engineering" : 2
 ```
 
@@ -169,31 +130,33 @@ pie showData
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,scikit,flask,git,jupyter,linux,html,css&perline=10" alt="Tech Stack Icons"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,scikit,flask,fastapi,git,jupyter,linux,html,css&perline=10" alt="Tech Stack Icons"/>
 
 </div>
 
 | Stack Layer | Technologies | Example Projects |
 |-------------|--------------|------------------|
-| **Deep Learning** | PyTorch, BERT, BiLSTM, GANs, CNN | `urdu-text-summarization`, `ColorizingSketches`, `CNN_model_for_Bone_Fracture_detection` |
-| **NLP / LLM** | Transformers, RoBERTa, OpenAI API, spaCy | `Knowledge-Graph-Construction-for-Pollution-Regulation`, `AIchatbot` |
+| **Deep Learning** | PyTorch, BERT, BiLSTM, CNN | `urdu-text-summarization`, `CNN_model_for_Bone_Fracture_detection` |
+| **Generative AI** | **LoRA** fine-tuning (visual models), **ComfyUI** pipelines & node workflows, Stable Diffusion / diffusion models, GANs, image & video generation, **REST APIs** (inference & serving) | `ColorizingSketches`, `FashionGAN`, `Yolo-Deployment` |
+| **NLP / LLM** | Transformers, RoBERTa, OpenAI API, spaCy, prompt engineering | `Knowledge-Graph-Construction-for-Pollution-Regulation`, `AIchatbot` |
 | **Computer Vision** | YOLO, Ultralytics, R-CNN, OpenCV | `UAVYOLO`, `RCNN-for-object-detection`, `Face-Detection` |
 | **Classical ML** | scikit-learn, pandas, NumPy | `Ml_models_to_Predict_Spam_Email`, `Hybrid-Approach-for-Skin-types-Classification` |
 | **Data Engineering** | Scrapy, JSON ETL, pandas | `Scraping-Degree-Programs`, `Data-Pack` |
-| **Web / APIs** | Flask, HTML/CSS | `CS-232-Semester-Project`, `gikeats.github.io` |
+| **Web / APIs** | Flask, FastAPI, HTML/CSS, REST endpoints | `CS-232-Semester-Project`, `gikeats.github.io`, `AIchatbot` |
 
 ### Stack Distribution
 
 ```text
+Generative AI      ██████░░░░░░░░░░░░░░  3 repos   (9%)   LoRA · ComfyUI · REST APIs
+Computer Vision    ████████████████████░ 10 repos  (29%)
 NLP / LLM          ████████░░░░░░░░░░░░  4 repos   (11%)
-Computer Vision    █████████████████████ 11 repos  (31%)
-ML / Data Science  ██████████░░░░░░░░░░  5 repos  (14%)
-Web / Backend      ██████████████░░░░░░  7 repos  (20%)
+ML / Data Science  ██████████░░░░░░░░░░  5 repos   (14%)
+Web / Backend      ██████████████░░░░░░  7 repos   (20%)
 Data Engineering   ████░░░░░░░░░░░░░░░░  2 repos   (6%)
 Other / Tools      ████████████░░░░░░░░ 11 repos  (31%)
 ```
 
-> Charts reflect public repositories. Private repos are not included unless you enable `count_private=true` on stats widgets.
+> Charts reflect public repositories only.
 
 ---
 
@@ -208,7 +171,7 @@ Other / Tools      ████████████░░░░░░░░ 
 
 </div>
 
-> 💡 **Open to collaboration** on NLP, LLM applications, and computer-vision projects.  
+> 💡 **Open to collaboration** on NLP, LLM applications, generative AI (LoRA / ComfyUI), and computer-vision projects.  
 > 🇩🇪 Standort: **Deutschland** · Sprachen: **Deutsch** & **Englisch**
 
 ---
