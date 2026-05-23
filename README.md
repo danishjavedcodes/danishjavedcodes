@@ -6,7 +6,7 @@
 
 [![Location](https://img.shields.io/badge/Location-Passau%2C%20Germany-blue?style=flat-square)](https://github.com/danishjavedcodes)
 [![IEEE Paper](https://img.shields.io/badge/Research-IEEE%20ICET%202024-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/10935058)
-[![Hireable](https://img.shields.io/badge/Open%20to-Work%20%7C%20Praktikum%20%7C%20Werkstudent-success?style=flat-square)](https://github.com/danishjavedcodes)
+[![Werkstudent](https://img.shields.io/badge/Werkstudent-AI%2FML%20Engineer-success?style=flat-square)](https://github.com/danishjavedcodes)
 
 </div>
 
@@ -18,7 +18,7 @@ I am an **AI / Machine Learning practitioner** based in **Passau, Germany**, wit
 
 My work spans **research-grade NLP** (published at IEEE ICET 2024), **transformer-based knowledge extraction**, **object detection pipelines (YOLO / R-CNN)**, and **production-oriented prototypes** including RAG-style chatbots and web-scraping data pipelines.
 
-I am actively seeking **AI Engineer**, **ML Engineer**, and **NLP Engineer** opportunities in the **German tech market** (Vollzeit, Werkstudent, Praktikum).
+I am actively seeking **Werkstudent** positions as an **AI/ML Engineer** in the **German tech market**.
 
 ---
 
