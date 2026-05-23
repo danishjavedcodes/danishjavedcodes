@@ -5,7 +5,7 @@
 **AI / ML Engineer · NLP & Computer Vision · Based in Germany**
 
 [![Location](https://img.shields.io/badge/Location-Passau%2C%20Germany-blue?style=flat-square)](https://github.com/danishjavedcodes)
-[![IEEE Paper](https://img.shields.io/badge/Research-IEEE%20ICET%202024-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/10935058)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IOwWWDEAAAAJ&hl=en)
 [![Werkstudent](https://img.shields.io/badge/Werkstudent-AI%2FML%20Engineer-success?style=flat-square)](https://github.com/danishjavedcodes)
 
 </div>
@@ -111,20 +111,95 @@ Dev Practices   Git · reproducible notebooks · structured project layouts
 
 ## 🧩 Project Stack Overview
 
-*How your portfolio breaks down by domain and technology.*
+Portfolio snapshot across **31 public repositories** — grouped by AI/ML domain and technology layer.
 
 ### Domain Focus
 
+<div align="center">
+
+<!-- Domain snapshot cards -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/👁️_Computer_Vision-10_repos-58A6FF?style=for-the-badge" alt="Computer Vision"/><br/>
+<sub>YOLO · CNN · OpenCV · R-CNN</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎨_Generative_AI-3_repos-FFA657?style=for-the-badge" alt="Generative AI"/><br/>
+<sub>LoRA · ComfyUI · GANs · REST APIs</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🧠_NLP___LLM-4_repos-F778BA?style=for-the-badge" alt="NLP LLM"/><br/>
+<sub>BERT · RoBERTa · Knowledge Graphs</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📊_ML___Data_Science-5_repos-3FB950?style=for-the-badge" alt="ML Data Science"/><br/>
+<sub>scikit-learn · experiments · evaluation</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌐_Web___Backend-7_repos-BC8CFF?style=for-the-badge" alt="Web Backend"/><br/>
+<sub>Flask · FastAPI · HTML/CSS</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🗄️_Data_Engineering-2_repos-79C0FF?style=for-the-badge" alt="Data Engineering"/><br/>
+<sub>Scrapy · JSON ETL · pandas</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Side-by-side charts: repo counts + percentage share -->
+<img src="https://quickchart.io/chart?width=720&height=400&backgroundColor=%231a1b27&format=png&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Computer%20Vision%22%2C%22Web%20/%20Backend%22%2C%22ML%20/%20Data%20Science%22%2C%22NLP%20/%20LLM%22%2C%22Generative%20AI%22%2C%22Data%20Eng.%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Repositories%22%2C%22data%22%3A%5B10%2C7%2C5%2C4%2C3%2C2%5D%2C%22backgroundColor%22%3A%5B%22%2358a6ff%22%2C%22%23bc8cff%22%2C%22%233fb950%22%2C%22%23f778ba%22%2C%22%23ffa657%22%2C%22%2379c0ff%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Repositories%20per%20Domain%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%238b949e%22%2C%22stepSize%22%3A1%7D%2C%22grid%22%3A%7B%22color%22%3A%22%2330363d%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23e6edf3%22%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Repositories per Domain Bar Chart" width="58%"/>
+
+<img src="https://quickchart.io/chart?width=520&height=400&backgroundColor=%231a1b27&format=png&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Computer%20Vision%22%2C%22Web%20/%20Backend%22%2C%22ML%20/%20Data%20Science%22%2C%22NLP%20/%20LLM%22%2C%22Generative%20AI%22%2C%22Data%20Eng.%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B29%2C20%2C14%2C11%2C9%2C6%5D%2C%22backgroundColor%22%3A%5B%22%2358a6ff%22%2C%22%23bc8cff%22%2C%22%233fb950%22%2C%22%23f778ba%22%2C%22%23ffa657%22%2C%22%2379c0ff%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22boxWidth%22%3A12%2C%22font%22%3A%7B%22size%22%3A10%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Domain%20Share%20%28%25%29%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%7D%7D" alt="Domain Share Donut Chart" width="38%"/>
+
+</div>
+
+<br/>
+
+<!-- GitHub-native interactive chart (renders in profile README) -->
 ```mermaid
-pie showData
-    title Portfolio by Domain
-    "Computer Vision" : 10
-    "Web / Backend" : 7
-    "ML / Data Science" : 5
-    "NLP / LLM" : 4
-    "Generative AI" : 3
-    "Data Engineering" : 2
+%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#1a1b27'}, 'primaryTextColor': '#e6edf3'}}}%%
+xychart-beta
+    title "Domain Comparison (Repositories)"
+    x-axis ["CV", "Web", "ML/DS", "NLP", "GenAI", "Data"]
+    y-axis "Repos" 0 --> 11
+    bar [10, 7, 5, 4, 3, 2]
 ```
+
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+treemap-beta
+    title Portfolio Treemap
+    "Computer Vision": 10
+    "Web / Backend": 7
+    "ML / Data Science": 5
+    "NLP / LLM": 4
+    "Generative AI": 3
+    "Data Engineering": 2
+```
+
+#### Domain breakdown
+
+| Domain | Share | Repos | Focus |
+|--------|:-----:|:-----:|-------|
+| 👁️ **Computer Vision** | ![29%](https://img.shields.io/badge/▰▰▰▰▰▰▰▰▰▱-29%25-58A6FF?style=flat-square&labelColor=21262d) | **10** | YOLO, Ultralytics, R-CNN, OpenCV |
+| 🌐 **Web / Backend** | ![20%](https://img.shields.io/badge/▰▰▰▰▰▰▱▱▱▱-20%25-BC8CFF?style=flat-square&labelColor=21262d) | **7** | Flask, FastAPI, HTML/CSS |
+| 📊 **ML / Data Science** | ![14%](https://img.shields.io/badge/▰▰▰▰▱▱▱▱▱▱-14%25-3FB950?style=flat-square&labelColor=21262d) | **5** | scikit-learn, notebooks, evaluation |
+| 🧠 **NLP / LLM** | ![11%](https://img.shields.io/badge/▰▰▰▱▱▱▱▱▱▱-11%25-F778BA?style=flat-square&labelColor=21262d) | **4** | BERT, RoBERTa, Knowledge Graphs |
+| 🎨 **Generative AI** | ![9%](https://img.shields.io/badge/▰▰▱▱▱▱▱▱▱▱-9%25-FFA657?style=flat-square&labelColor=21262d) | **3** | LoRA, ComfyUI, GANs, REST APIs |
+| 🗄️ **Data Engineering** | ![6%](https://img.shields.io/badge/▰▱▱▱▱▱▱▱▱▱-6%25-79C0FF?style=flat-square&labelColor=21262d) | **2** | Scrapy, JSON ETL, pandas |
+
+> Charts reflect public repositories only. Bar & donut charts via [QuickChart](https://quickchart.io).
+
+---
 
 ### Technology Stack (from repositories)
 
@@ -144,20 +219,6 @@ pie showData
 | **Data Engineering** | Scrapy, JSON ETL, pandas | `Scraping-Degree-Programs`, `Data-Pack` |
 | **Web / APIs** | Flask, FastAPI, HTML/CSS, REST endpoints | `CS-232-Semester-Project`, `gikeats.github.io`, `AIchatbot` |
 
-### Stack Distribution
-
-```text
-Generative AI      ██████░░░░░░░░░░░░░░  3 repos   (9%)   LoRA · ComfyUI · REST APIs
-Computer Vision    ████████████████████░ 10 repos  (29%)
-NLP / LLM          ████████░░░░░░░░░░░░  4 repos   (11%)
-ML / Data Science  ██████████░░░░░░░░░░  5 repos   (14%)
-Web / Backend      ██████████████░░░░░░  7 repos   (20%)
-Data Engineering   ████░░░░░░░░░░░░░░░░  2 repos   (6%)
-Other / Tools      ████████████░░░░░░░░ 11 repos  (31%)
-```
-
-> Charts reflect public repositories only.
-
 ---
 
 ## 📫 Contact & Links
@@ -166,7 +227,6 @@ Other / Tools      ████████████░░░░░░░░ 
 
 [![GitHub](https://img.shields.io/badge/GitHub-danishjavedcodes-181717?style=for-the-badge&logo=github)](https://github.com/danishjavedcodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6366F1?style=for-the-badge&logo=google-chrome)](https://danishjavedcodes.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR.EMAIL@example.com)
 
 </div>
