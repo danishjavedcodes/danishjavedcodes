@@ -91,11 +91,7 @@ Dev Practices   Git · reproducible notebooks · structured project layouts
 
 <div align="center">
 
-<!-- Donut: repositories by primary language (QuickChart — github-readme-stats is currently unavailable) -->
-<img src="https://quickchart.io/chart?width=520&height=400&backgroundColor=%231a1b27&format=png&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Jupyter%20Notebook%22%2C%22Python%22%2C%22HTML%22%2C%22Other%22%2C%22CSS%22%2C%22C%2B%2B%22%2C%22TeX%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B14%2C9%2C4%2C3%2C1%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%23F37626%22%2C%22%233572A5%22%2C%22%23E34C26%22%2C%22%238B949E%22%2C%22%23563D7C%22%2C%22%23F34B7D%22%2C%22%233D6117%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22boxWidth%22%3A12%2C%22font%22%3A%7B%22size%22%3A11%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Languages%20Across%20Repositories%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%7D%7D" alt="Top Languages Donut" width="45%"/>
-
-<!-- Bar: repos count per primary language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danishjavedcodes&theme=tokyonight" alt="Repositories per Language" width="45%"/>
+<img src="https://quickchart.io/chart?width=560&height=400&backgroundColor=%231a1b27&format=png&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Jupyter%20Notebook%22%2C%22Python%22%2C%22HTML%22%2C%22Other%22%2C%22CSS%22%2C%22C%2B%2B%22%2C%22TeX%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B14%2C9%2C4%2C3%2C1%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%23F37626%22%2C%22%233572A5%22%2C%22%23E34C26%22%2C%22%238B949E%22%2C%22%23563D7C%22%2C%22%23F34B7D%22%2C%22%233D6117%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22boxWidth%22%3A12%2C%22font%22%3A%7B%22size%22%3A11%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Languages%20Across%20Repositories%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%7D%7D" alt="Languages Across Repositories" width="70%"/>
 
 </div>
 
@@ -150,41 +146,6 @@ Portfolio snapshot across **31 public repositories** — grouped by AI/ML domain
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<!-- Side-by-side charts: repo counts + percentage share -->
-<img src="https://quickchart.io/chart?width=720&height=400&backgroundColor=%231a1b27&format=png&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Computer%20Vision%22%2C%22Web%20/%20Backend%22%2C%22ML%20/%20Data%20Science%22%2C%22NLP%20/%20LLM%22%2C%22Generative%20AI%22%2C%22Data%20Eng.%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Repositories%22%2C%22data%22%3A%5B10%2C7%2C5%2C4%2C3%2C2%5D%2C%22backgroundColor%22%3A%5B%22%2358a6ff%22%2C%22%23bc8cff%22%2C%22%233fb950%22%2C%22%23f778ba%22%2C%22%23ffa657%22%2C%22%2379c0ff%22%5D%2C%22borderRadius%22%3A6%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Repositories%20per%20Domain%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%238b949e%22%2C%22stepSize%22%3A1%7D%2C%22grid%22%3A%7B%22color%22%3A%22%2330363d%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23e6edf3%22%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" alt="Repositories per Domain Bar Chart" width="58%"/>
-
-<img src="https://quickchart.io/chart?width=520&height=400&backgroundColor=%231a1b27&format=png&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Computer%20Vision%22%2C%22Web%20/%20Backend%22%2C%22ML%20/%20Data%20Science%22%2C%22NLP%20/%20LLM%22%2C%22Generative%20AI%22%2C%22Data%20Eng.%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B29%2C20%2C14%2C11%2C9%2C6%5D%2C%22backgroundColor%22%3A%5B%22%2358a6ff%22%2C%22%23bc8cff%22%2C%22%233fb950%22%2C%22%23f778ba%22%2C%22%23ffa657%22%2C%22%2379c0ff%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23e6edf3%22%2C%22boxWidth%22%3A12%2C%22font%22%3A%7B%22size%22%3A10%7D%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Domain%20Share%20%28%25%29%22%2C%22color%22%3A%22%23e6edf3%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%7D%7D" alt="Domain Share Donut Chart" width="38%"/>
-
-</div>
-
-<br/>
-
-<!-- GitHub-native interactive chart (renders in profile README) -->
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#1a1b27'}, 'primaryTextColor': '#e6edf3'}}}%%
-xychart-beta
-    title "Domain Comparison (Repositories)"
-    x-axis ["CV", "Web", "ML/DS", "NLP", "GenAI", "Data"]
-    y-axis "Repos" 0 --> 11
-    bar [10, 7, 5, 4, 3, 2]
-```
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-treemap-beta
-    title Portfolio Treemap
-    "Computer Vision": 10
-    "Web / Backend": 7
-    "ML / Data Science": 5
-    "NLP / LLM": 4
-    "Generative AI": 3
-    "Data Engineering": 2
-```
-
 #### Domain breakdown
 
 | Domain | Share | Repos | Focus |
@@ -196,7 +157,7 @@ treemap-beta
 | 🎨 **Generative AI** | ![9%](https://img.shields.io/badge/▰▰▱▱▱▱▱▱▱▱-9%25-FFA657?style=flat-square&labelColor=21262d) | **3** | LoRA, ComfyUI, GANs, REST APIs |
 | 🗄️ **Data Engineering** | ![6%](https://img.shields.io/badge/▰▱▱▱▱▱▱▱▱▱-6%25-79C0FF?style=flat-square&labelColor=21262d) | **2** | Scrapy, JSON ETL, pandas |
 
-> Charts reflect public repositories only. Bar & donut charts via [QuickChart](https://quickchart.io).
+> Based on public repositories only.
 
 ---
 
